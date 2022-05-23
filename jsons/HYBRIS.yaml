@@ -1,0 +1,5 @@
+HYBRIS_HOST:
+  ms: "http://hybris.ms"
+  dev: "http://hybris.dev"
+  preprod: "http://hybris.preprod"
+  qa1: "http://hybris.qa1"
