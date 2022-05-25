@@ -1,12 +1,12 @@
 HYBRIS_HOST:
   ms: "http://hybris.ms"
   dev: "http://hybris.dev"
-  preprod: "aldrynho.preprod"
+  preprod: "gokudocabogs"
   qa1: "http://hybris.ms"
 HYBRIS_PORT:
   ms: "http://hybris.ms"
   dev: "http://hybris.dev"
-  preprod: "5555"
+  preprod: "8899"
   qa1: "http://hybris.ms"
 
 ENV_X:
